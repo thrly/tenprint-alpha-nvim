@@ -5,6 +5,11 @@ A plugin patch that replaces the [alpha-nvim](https://github.com/goolord/alpha-n
 > [!NOTE]
 > This is a patch for [alpha.nvim](https://github.com/goolord/alpha-nvim) It assumes you're using that plugin and won't do anything without it.
 
+> [!WARRNING]
+> While the banner loads, there is currently a bug on load. See issues.
+
+![banner image](./img.png)
+
 ## Installation
 
 If you're using LazyVim, add this plugin like so:
